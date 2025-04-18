@@ -8,7 +8,7 @@
 **The most aggressive ad-blocker for Chrome that mercilessly destroys:**  
 🎥 YouTube ads | 📢 Pop-ups | 🕵️ Tracking scripts | 💰 Adware | 🍪 Third-party cookies  
 
-![Extension Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RqN3BwY3d6Z3h1c2l1bDZ5N2ZqYzJ6eHlwN3RqZ3F5dGx5aGt5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJniNz7bWn6/giphy.gif)
+![Extension Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIxN25jeDR0ZmE4eDd4YXdwMjNxbHo5NTlwb3Jybnk0ZGs0MDVmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mab1lyzb70X0YiNLUj/giphy.gif)
 
 ## 🚀 Features
 
